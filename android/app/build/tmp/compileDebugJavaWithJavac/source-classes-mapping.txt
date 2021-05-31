@@ -1,0 +1,14 @@
+com/makemoney/MainActivity.java
+ com.makemoney.MainActivity
+com/makemoney/ReactNativeFlipper.java
+ com.makemoney.ReactNativeFlipper
+ com.makemoney.ReactNativeFlipper$1
+ com.makemoney.ReactNativeFlipper$2
+ com.makemoney.ReactNativeFlipper$2$1
+com/makemoney/BuildConfig.java
+ com.makemoney.BuildConfig
+com/makemoney/MainApplication.java
+ com.makemoney.MainApplication
+ com.makemoney.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
