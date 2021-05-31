@@ -1,2 +1,3 @@
 # BaseReactNative
- Use react native boilerplate
+ - RNBoilerplate (https://thecodingmachine.github.io/react-native-boilerplate/docs/Introduction)
+ - Reactotron
